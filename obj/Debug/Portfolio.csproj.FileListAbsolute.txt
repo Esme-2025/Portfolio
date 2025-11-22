@@ -77,3 +77,9 @@ C:\Development\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
 C:\Development\Portfolio\obj\Debug\Portfolio.csproj.Up2Date
 C:\Development\Portfolio\obj\Debug\Portfolio.dll
 C:\Development\Portfolio\obj\Debug\Portfolio.pdb
+C:\Development\Portfolio\bin\EntityFramework.dll
+C:\Development\Portfolio\bin\EntityFramework.SqlServer.dll
+C:\Development\Portfolio\bin\EntityFramework.xml
+C:\Development\Portfolio\bin\EntityFramework.SqlServer.xml
+C:\Development\Portfolio\obj\Debug\Portfolio.Migrations.InitialCreate.resources
+C:\Development\Portfolio\obj\Debug\Portfolio.csproj.GenerateResource.cache
