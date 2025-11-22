@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Development\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|c:\\development\\portfolio\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|c:\\development\\portfolio\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|c:\\development\\portfolio\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Development\\Portfolio\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,18 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Development\\Portfolio\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "ClassDiagram1.cd",
-              "ToolTip": "C:\\Development\\Portfolio\\ClassDiagram1.cd",
-              "RelativeToolTip": "ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-11-22T01:33:41.309Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Development\\Portfolio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Development\\Portfolio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-22T02:13:59.318Z",
               "EditorCaption": ""
             },
             {
@@ -42,8 +47,7 @@
               "RelativeToolTip": "Models\\Education.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T01:32:03.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T01:32:03.125Z"
             }
           ]
         }
